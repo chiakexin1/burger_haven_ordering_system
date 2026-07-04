@@ -53,6 +53,41 @@ pip install openpyxl
 python Main.py
 
 ---
+## 📸 Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+---
+
+### Create Product
+
+![Create Product](screenshots/create-product.png)
+
+---
+
+### List Product
+
+![List of Product](screenshots/list-product.png)
+
+### Food Ordering
+
+![Food Ordering](screenshots/order-system.png)
+
+---
+
+### Receipt
+
+![Receipt](screenshots/receipt.png)
+
+---
+
+### Monthly Sales Report
+
+![Sales Report](screenshots/sales-report.png)
+
+---
 
 ## Learning Outcomes
 
